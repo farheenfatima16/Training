@@ -1,1 +1,5 @@
-
+A)Pull Request - It is the changes you have pushed to a branch in a repository.Its merging of one branch to another.
+B)What is a commit - Any change done in a file
+C)What is a reviewer - A reviwer is a person who add reviews to a specific pull request.
+D)WHat is a protected branch - A protected branch is a branch which is locked and no changes can be made to it.
+E)Name 3 tools similar to github- Gitlab,Bitbucket,Launchpad
