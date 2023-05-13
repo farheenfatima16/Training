@@ -12,6 +12,7 @@ Click it and now enter your branch name.
 D)How to add collaborator
 Settings> Collaborators 
 Click on the add people option in the right.
+(The access of collaborators is limited to the repo to which you add them)
 
 E)How to update a file
 HomePage>Your repo > code
@@ -21,8 +22,18 @@ Click on the edit option in the right
 F)How to create a pull request
 Homepage>Your Repo >Pull Request
 
+
 E)How to request a review from collaborator
-Ho
+Step 1: Add collaborator
+Step 2: Request review
+Your repo > Pull request >Click on reviewer on the right.
+
+G)How to merge changes after approval
+
+H)How to check if changes have been approved
+
+
+
 
 
 
